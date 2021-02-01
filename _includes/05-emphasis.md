@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Teams
+
+### **Below are *favorite* teams**
+- Manchester United
+- LA Lakers
+- Clemson
+
+### ___Collaboration___
+- Github
+- Git
